@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.098fbfc3.css",
-    "main.js": "./static/js/main.4f467263.js",
-    "static/js/787.128fc6e9.chunk.js": "./static/js/787.128fc6e9.chunk.js",
-    "static/media/sushi.PNG": "./static/media/sushi.3173c00ff0300fde13fb.PNG",
-    "static/media/home.jpg": "./static/media/home.825bd180162b0d2c5bac.jpg",
-    "static/media/usic.PNG": "./static/media/usic.c8c099978b80fade905e.PNG",
-    "static/media/sushi.webp": "./static/media/sushi.c5c8783eb3c16bae4440.webp",
-    "static/media/usic.webp": "./static/media/usic.3a57aaceda1e08bb281e.webp",
-    "static/media/luke-square1.jpeg": "./static/media/luke-square1.d89cfe97bd9f3e6ae7b4.jpeg",
-    "static/media/drawing.PNG": "./static/media/drawing.2577ddb4cec721e069ac.PNG",
-    "static/media/hackathon.PNG": "./static/media/hackathon.e17a52ba38fda451ba2f.PNG",
-    "static/media/Luke-Chang-Resume.pdf": "./static/media/Luke-Chang-Resume.130bb47ed6d701e78528.pdf",
-    "static/media/drawing.webp": "./static/media/drawing.47be9b0edbf52f12d0a0.webp",
-    "static/media/hackathon.webp": "./static/media/hackathon.c931b1a4d7064be25c2f.webp",
-    "static/media/download.png": "./static/media/download.2d26fa6eb4d5db882f5d.png",
-    "index.html": "./index.html",
-    "main.098fbfc3.css.map": "./static/css/main.098fbfc3.css.map",
-    "main.4f467263.js.map": "./static/js/main.4f467263.js.map",
-    "787.128fc6e9.chunk.js.map": "./static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/portfolio3/static/css/main.098fbfc3.css",
+    "main.js": "/portfolio3/static/js/main.7efa1285.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio3/static/js/787.128fc6e9.chunk.js",
+    "static/media/sushi.PNG": "/portfolio3/static/media/sushi.3173c00ff0300fde13fb.PNG",
+    "static/media/home.jpg": "/portfolio3/static/media/home.825bd180162b0d2c5bac.jpg",
+    "static/media/usic.PNG": "/portfolio3/static/media/usic.c8c099978b80fade905e.PNG",
+    "static/media/sushi.webp": "/portfolio3/static/media/sushi.c5c8783eb3c16bae4440.webp",
+    "static/media/usic.webp": "/portfolio3/static/media/usic.3a57aaceda1e08bb281e.webp",
+    "static/media/luke-square1.jpeg": "/portfolio3/static/media/luke-square1.d89cfe97bd9f3e6ae7b4.jpeg",
+    "static/media/drawing.PNG": "/portfolio3/static/media/drawing.2577ddb4cec721e069ac.PNG",
+    "static/media/hackathon.PNG": "/portfolio3/static/media/hackathon.e17a52ba38fda451ba2f.PNG",
+    "static/media/Luke-Chang-Resume.pdf": "/portfolio3/static/media/Luke-Chang-Resume.130bb47ed6d701e78528.pdf",
+    "static/media/drawing.webp": "/portfolio3/static/media/drawing.47be9b0edbf52f12d0a0.webp",
+    "static/media/hackathon.webp": "/portfolio3/static/media/hackathon.c931b1a4d7064be25c2f.webp",
+    "static/media/download.png": "/portfolio3/static/media/download.2d26fa6eb4d5db882f5d.png",
+    "index.html": "/portfolio3/index.html",
+    "main.098fbfc3.css.map": "/portfolio3/static/css/main.098fbfc3.css.map",
+    "main.7efa1285.js.map": "/portfolio3/static/js/main.7efa1285.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio3/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.098fbfc3.css",
-    "static/js/main.4f467263.js"
+    "static/js/main.7efa1285.js"
   ]
 }
